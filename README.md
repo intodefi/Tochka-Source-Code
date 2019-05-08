@@ -1,1 +1,1 @@
-# Tochka Source Code
+# Multi Vendor BTC Marketplace
